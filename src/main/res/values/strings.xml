@@ -2,6 +2,7 @@
     <string name="app_name">Homework 1</string>
 
     <string name="hello_world">Hello, Derek Dik</string>
+    <string name="large_device">Large Device Detected</string>
     <string name="action_settings">Settings</string>
     <string name="action_search">Search</string>
 </resources>
